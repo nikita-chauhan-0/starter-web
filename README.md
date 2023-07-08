@@ -8,6 +8,10 @@ intro
 
 ## Purpose
 
+main purpose
+
 ## Deployment 
+
+deploy 
 
 ## how to contribute
